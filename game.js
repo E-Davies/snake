@@ -6,8 +6,6 @@ let lastRenderTime = 0;
 let gameOver = false;
 const gameBoard = document.getElementById('game-board');
 
-const startAlert = alert("Please Note: \nThis game cannot be played on touchscreen devices, please use with a keyboard");
-
 const gameOverScreen = document.getElementById('game-over');
 const playAgainBtn = document.getElementById('play');
 const finishBtn = document.getElementById('finish');
