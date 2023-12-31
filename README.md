@@ -3,7 +3,7 @@
 
 ## Description
 
-This Snake game was created after following a YouTube tutoral by Web Dev Simplified  - https://www.youtube.com/watch?v=QTcIXok9wNY
+This Snake game was created after following a YouTube tutorial by Web Dev Simplified  - https://www.youtube.com/watch?v=QTcIXok9wNY
 
 It taught me the following things:
 
@@ -13,7 +13,7 @@ It taught me the following things:
 * How to position elements in a CSS grid
 
 I have customised this game by:
-* Adding a a running score
+* Adding a running score
 * Creating a Game Over screen
 
 At some point I want to develop this game further to include: 
